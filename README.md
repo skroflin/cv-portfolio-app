@@ -7,5 +7,6 @@ Basic react frontend application. Presents info and experience.
 Run:
 
 ```
+npm i
 npm run dev
 ```
